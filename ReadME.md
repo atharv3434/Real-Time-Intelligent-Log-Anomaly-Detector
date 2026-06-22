@@ -15,3 +15,7 @@ An end-to-end MLOps pipeline designed to detect system intrusions and applicatio
 
 ## 🏃 Local Setup
 
+1. **Clone the repository:**
+   ```bash
+   git clone  https://github.com/atharv3434/Real-Time-Intelligent-Log-Anomaly-Detector.git
+   cd log-anomaly-detector
